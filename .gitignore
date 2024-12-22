@@ -1,3 +1,4 @@
-env\
+env/
 .idea
 example.db
+__pycache__/
