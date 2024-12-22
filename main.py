@@ -44,5 +44,8 @@ async def main():
             print(f"ID: {book.id}, name: {book.name}, author ID: {book.author_id}, genre ID: {book.genre_id}")
 
 
+
+
+
 if __name__ == '__main__':
     asyncio.run(main())
